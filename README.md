@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @MEELAN2001
-- 👀 I’m interested in HACKING , PROGRAMMING , FRONTEND , MERN 
-- 🌱 I’m currently learning Certified Ethical Hacking ( CEH )
-- 💞️ I’m looking to collaborate on NOT YET .
+👋 Hi! I’m Milan, a passionate cybersecurity enthusiast . With a keen interest in ethical hacking and penetration testing, I have some knowledge on securing systems and networks against cyber threats.
+
+🔐 My knowledge includes:
+
+1) Linux Administration: 
+2) Cybersecurity: 
+3) Penetration Testing: 
+4) Networking: 
+🎓 Currently pursuing a BSc in Computer Science and Information Technology (CSIT), I’m eager to contribute to the ever-evolving field of cybersecurity.
+
 - 📫 How to reach me mail me in my email 2001milantamang@gmail.com
 
 <!---
