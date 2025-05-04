@@ -45,8 +45,8 @@
 
 - Advanced **Web Penetration Testing**
 - **Python** for automation and scripting
-- **Playwright** and **JMeter** for advanced QA automation and performance testing
-
+- **Cypress** and **JMeter** for advanced QA automation and performance testing
+- **Postman API TESTING"
 ---
 
 ## 🎓 Education
