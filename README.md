@@ -59,7 +59,7 @@ Tribhuvan University, Nepal
 ## 📫 Let's Connect
 
 📧 Email: [2001milantamang@gmail.com](mailto:2001milantamang@gmail.com)  
-🔗 LinkedIn (coming soon)  
+🔗 LinkedIn: https://www.linkedin.com/in/milan-bomjan-tamang-918167239/  
 🌐 Personal Portfolio (in progress)
 
 ---
