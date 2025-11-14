@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_nxkqgpyi.json" width="900" alt="Milan Tamang Cybersecurity Banner"/>
+  <img src="https://github.com/user-attachments/assets/de1a84f7-7184-4123-b883-fb1ac3751ab1" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Milan Bomjan Tamang</h1>
+<h1 align="center">👋 Hey, I'm <strong>Milan Bomjan Tamang</strong></h1>
 <h3 align="center">🔐 Cybersecurity Enthusiast | 🧪 Software QA Engineer | 🧑‍💻 Web App Pentester (Learner)</h3>
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate **Software QA Engineer** and an enthusiastic **Cybersecurity Learner** with a strong interest in **Web Application Penetration Testing**, ethical hacking, and system security.
+I'm a passionate **Software QA Engineer** and an enthusiastic **Cybersecurity Learner** with a strong interest in **Web Application Penetration Testing**, ethical hacking, and secure system design.
 
 I love exploring how systems work, breaking things ethically, and helping make applications more secure and reliable.
 
@@ -18,11 +18,11 @@ I love exploring how systems work, breaking things ethically, and helping make a
 ## 💼 What I Do
 
 ### 🧪 **Software QA Engineer**
-- Manual Testing (UI/UX, functional, regression)
+- Manual Testing (UI/UX, Functional, Regression)
 - Automation foundations with **Cypress**, **Appium**, **Playwright**
 - API Testing using **Postman**
 - Performance testing with **JMeter**
-- Writing test cases, test scenarios, bug reports, and documentation
+- Writing test cases, test scenarios, bug reports & documentation
 - Mobile testing using **Maestro**
 
 ### 🔐 **Cybersecurity Enthusiast**
@@ -31,10 +31,10 @@ I love exploring how systems work, breaking things ethically, and helping make a
 - Understanding **OWASP Top 10**  
 - Tools I use: **Burp Suite**, **OWASP ZAP**, **Kali Linux**, **Nmap**, **Metasploit**, **Dirsearch**
 
-### 🖥️ **Linux & Networking**
-- Linux command-line & bash scripting basics  
-- Understanding processes, permissions, and services  
-- TCP/IP, DNS, ports, firewalls, proxies  
+### 🐧 **Linux & Networking**
+- Linux command-line & bash scripting  
+- Understanding processes, permissions & services  
+- Networking basics (TCP/IP, DNS, ports, firewalls, proxies)  
 
 ---
 
@@ -60,13 +60,6 @@ I love exploring how systems work, breaking things ethically, and helping make a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
 </p>
-
-### 🐧 **Areas of Strength**
-- QA Testing (Manual + Automation foundations)  
-- Basic scripting (Bash, Python)  
-- OWASP Top 10 understanding  
-- Network fundamentals  
-- Vulnerability discovery  
 
 ---
 
