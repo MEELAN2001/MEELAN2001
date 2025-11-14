@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/kKcpD8j/milan-tamang-cybersecurity-banner.png" width="700"/>
+  <img src="https://assets7.lottiefiles.com/packages/lf20_nxkqgpyi.json" width="900" alt="Milan Tamang Cybersecurity Banner"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Milan Bomjan Tamang</h1>
@@ -11,7 +11,7 @@
 
 I'm a passionate **Software QA Engineer** and an enthusiastic **Cybersecurity Learner** with a strong interest in **Web Application Penetration Testing**, ethical hacking, and system security.
 
-I love exploring how systems work, breaking things ethically, and helping make applications more secure and more reliable.
+I love exploring how systems work, breaking things ethically, and helping make applications more secure and reliable.
 
 ---
 
@@ -29,8 +29,7 @@ I love exploring how systems work, breaking things ethically, and helping make a
 - Web Application Pentesting  
 - Reconnaissance & Vulnerability Scanning  
 - Understanding **OWASP Top 10**  
-- Tools I use:
-  **Burp Suite**, **OWASP ZAP**, **Kali Linux**, **Nmap**, **Metasploit**, **Dirsearch**
+- Tools I use: **Burp Suite**, **OWASP ZAP**, **Kali Linux**, **Nmap**, **Metasploit**, **Dirsearch**
 
 ### 🖥️ **Linux & Networking**
 - Linux command-line & bash scripting basics  
@@ -42,23 +41,24 @@ I love exploring how systems work, breaking things ethically, and helping make a
 ## 🧠 Skills & Tools
 
 ### 🛠️ **Tech Stack**
-<p>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-F37626?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-005CFF?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-F37626?style=for-the-badge&logo=burp-suite&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-005CFF?style=for-the-badge&logo=owasp&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue" height="30"/>
   <br/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-6A1B9A?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Appium-6A1B9A?style=for-the-badge&logo=appium&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white" height="30"/>
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
 </p>
 
 ### 🐧 **Areas of Strength**
@@ -67,13 +67,6 @@ I love exploring how systems work, breaking things ethically, and helping make a
 - OWASP Top 10 understanding  
 - Network fundamentals  
 - Vulnerability discovery  
-
----
-
-## 📚 Currently Learning
-- Advanced Web Application Pentesting  
-- Python for cybersecurity automation  
-- API & Performance Testing (Postman, JMeter, Cypress)  
 
 ---
 
@@ -95,9 +88,9 @@ Tribhuvan University, Nepal
 
 ## 📫 Let’s Connect!
 
-<p align="left">
-  <a href="mailto:2001milantamang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/milan-bomjan-tamang-918167239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:2001milantamang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+  <a href="https://www.linkedin.com/in/milan-bomjan-tamang-918167239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
 </p>
 
 ---
