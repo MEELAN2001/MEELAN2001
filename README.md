@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 - 🔭 I’m currently working at **The Root Level AI**  
-- 📫 How to reach me → **2001milantamang@gmail.com**  
+- 📫 How to reach me → **mailmilan.bomjan@gmail.com**  
 - 💬 Ask me about **Quality Assurance • Cybersecurity • Pentesting Basics**
 
 I'm a **QA Engineer** and **Cybersecurity Learner** who loves exploring how systems break (ethically!) and helping secure and improve applications.
